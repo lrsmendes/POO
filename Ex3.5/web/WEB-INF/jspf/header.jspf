@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<h1>Ex3.5</h1>
+<a href="index.jsp">Index</a> |
+<a href="page1.jsp">Page 1</a> |
+<a href="page2.jsp">Page 2</a> |
+<a href="page3.jsp">Page 3</a> |
